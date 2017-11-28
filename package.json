@@ -1,0 +1,34 @@
+{
+  "name": "lemon-py",
+  "version": "0.1.0",
+  "description": "This is a library for implement Python functions in Javascript. Initially we focus on Strings.",
+  "main": "dist/src/lemon-py.js",
+  "scripts": {
+    "build": "babel src/lemon-py.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alammm/lemon-py.git"
+  },
+  "keywords": [
+    "functions",
+    "python",
+    "methods",
+    "javascript",
+    "string",
+    "easy",
+    "apply"
+  ],
+  "author": "Alan Munoz <alan.munozlopez@gmail.com> (https://www.github.com/alammm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alammm/lemon-py/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
