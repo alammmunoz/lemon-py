@@ -1,6 +1,6 @@
 {
   "name": "lemon-py",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is a library for implement Python functions in Javascript. Initially we focus on Strings.",
   "main": "dist/src/lemon-py.js",
   "scripts": {
