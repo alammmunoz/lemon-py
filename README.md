@@ -70,7 +70,7 @@ console.log(lenPrint);
 
 
 ## Credits
-- [Alan Munoz] (https://www.github.com/alammm)
+- [Alan Munoz] (https://www.github.com/alanmunozlopez)
 
 
 ## License
